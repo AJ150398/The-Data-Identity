@@ -3,7 +3,7 @@ Data Science Hackathon | Analytics Vidhya
 
 INSTRUCTIONS TO RUN CODE FILE:
 
-The code file is a script written in Python (.py file)
+The code file is a script written in Python (.py file).
 It requires a Python interpreter to run.
 
 PACKAGES USED:
