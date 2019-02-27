@@ -8,7 +8,7 @@ It requires a Python interpreter to run.
 
 PACKAGES USED:
 
-1) numpy 1.13.3
-2) matplotlib 2.2.2
-3) pandas 0.21.0
-4) catboost 0.9.1.1
+    numpy 1.13.3
+    matplotlib 2.2.2
+    pandas 0.21.0
+    catboost 0.9.1.1
